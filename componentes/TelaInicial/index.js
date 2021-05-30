@@ -5,7 +5,7 @@ import Titulo from '../Titulo';
 
 export default function TelaInicial() {
     return (
-        <View>
+        <View >
             <Titulo/>
             <Noticia/>
         </View>

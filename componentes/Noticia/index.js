@@ -7,7 +7,7 @@ export default function Noticia() {
     return (
         <View style={estilo.box}>
 
-            <Text style={estilo.titulo}>Lançamento da versão 0.62</Text>
+            <Text style={estilo.titulo}>Lançamento da versão 0.63</Text>
 
             <Image style={estilo.imagem} source={imgNoticia} />
 
